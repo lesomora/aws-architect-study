@@ -28,7 +28,7 @@ Existem alguns pontos que devem ser considerados, logo a resposta depende. Abaix
  *  Compliance: Caso sua aplicação tenha alguma implicação legal ou governamental, isto é, por exemplo um banco no Brasil não pode operar com sua infraestrutura e armazenamento de dados nos Estados Unidos. 
  * Proximity: A verdadeira vantagem da AWS é a possibilidade de prover infraestrutura e serviços mais próximos ao seu usuário, sendo assim deve considerar a localidade do seu deploy perto dos seus consumidores. Assim reduzindo a latência.
  * Available Services: Com novos serviços e funcionalidades sendo lançadas, alguns destes novos recursos podem estar disponiveis apenas em zonas de disponibilidade especificas.
- * Pricing: O preço varia de acordo com a região, caso tenha muito *dataout*. O preço dos serviços da aws, pode ser um balizador importante na hora de definir a estratégia de deployment do seu serviço.
+ * Pricing: O preço varia de acordo com a região, caso tenha muito *dataout*. O preço dos serviços da aws podem impactar o seu projeto, sendo assim, o preço é um balizador importante na hora de definir a estratégia de deployment do seu serviço.
 ---
 
 O que é uma AZ Availability Zones (zona de disponibilidade) ?
